@@ -1,0 +1,7 @@
+#Wed Dec 13 16:49:15 BDT 2017
+base.0=E\:\\Amazing OCR\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fc44d3cab0ddcebe5c4fa1acc10d4e54852c4ba5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Amazing OCR\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_49151c8f5b08845f161de96ee7aa309c663375ee\\classes.dex
+base.1=E\:\\Amazing OCR\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_49151c8f5b08845f161de96ee7aa309c663375ee
+file.0=E\:\\Amazing OCR\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fc44d3cab0ddcebe5c4fa1acc10d4e54852c4ba5\\classes.dex

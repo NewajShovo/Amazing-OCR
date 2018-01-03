@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\color_blue_fb.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\color_blue_fb.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\developer_name_underline.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\developer_name_underline.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dev_new.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\dev_new.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hashtag.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\hashtag.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_twitter_small_press.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_twitter_small_press.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\color_red_twitter.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\color_red_twitter.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\color_green_email.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\color_green_email.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gallery_new.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\gallery_new.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_website_small_press.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_website_small_press.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\camera_new.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\camera_new.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gallery.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\gallery.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mubin_developer.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\mubin_developer.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_facebook.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_facebook.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_twitter.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_twitter.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_mojargonit.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_mojargonit.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_facebook_small.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_facebook_small.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\color_purple_phone.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\color_purple_phone.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background_developers_pro_pic.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\background_developers_pro_pic.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_email.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_email.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_crevado.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_crevado.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tawhid_designer.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\tawhid_designer.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_twitter_small.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_twitter_small.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_website_small.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_website_small.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\color_yellow_blog.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\color_yellow_blog.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_facebook_small_press.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_facebook_small_press.png"
+    },
+    {
+        "merged": "E:\\Amazing OCR\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\social_icon_phone.png",
+        "source": "E:\\Amazing OCR\\app\\src\\main\\res\\drawable-hdpi\\social_icon_phone.png"
+    }
+]

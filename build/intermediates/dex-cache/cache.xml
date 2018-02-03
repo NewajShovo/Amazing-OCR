@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4fc05f8c49e9db62cc0b5831d020a4111eb58d6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f9801b4bad6156fcfdc0301e4c5f28a6360760f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2800aa7333031bea22acefcd85fab53052a257e">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fc44d3cab0ddcebe5c4fa1acc10d4e54852c4ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_a8ceaa209d050e9bdc32084296f2d89e48de6a02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\5.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="360568f833daa8f15e88e7192d50a52e7b0b4aad">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.rmtheis-tess-two-5.4.0_09c67addfae0191a884af9696c19eba2256e265d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_2903363cdc5f54e4afc9601c090ddf94fe72b17f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3401a151ec355a3bb5733f5efa74c4d609fb59af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\libs\itextpdf-5.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dfa986eb534a5b0c6684343c9adc06614985e54f">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\2\itextpdf-5.5.5_5520516e72e065017b01de4d5c849eb61cde1f28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_53b990e37900c7e6fe5c9e7e8861ac7c9062eef8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_508905b97c2cb53fb07d7609ca677aecc1c9825f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_f2195f97946ec20eb8400a2c19dcc8c9523511e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_2ebcf8c36b8c1bbd4df1cdc81ec80ea774899b8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_d3ca06274f4acc3177cc029724853cda761ef7b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_cc6a05b8a61881d207f20506cfe52877b447eace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_c228187f369dd3be5e50a631e02a9a1a66294735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_4f7940cfbcee8ba54c61f123ca7b2accaa2f77c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_0df2c6cc274aacf13b73128319ded7e232e72eab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_82adf4522a83722ff3fbc5c5455580716f6516df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_f8c12dac90dfd99065d2b85bba754986938d1933\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_87c7d3b138bd89492184b2dcafed7bf86749d740\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_9d0e941cc49ba41551680b6bea48c8083c477677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c6a416e67bc10720d9db28e92a54293569c1a639\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_13e1065a5bde440b2bb42e2e0a74c884b66b130a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="87761c946751d210fbe3ac8577124806eba2c698">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_49151c8f5b08845f161de96ee7aa309c663375ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Amazing OCR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\Amazing OCR\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_80cf6ca9024af222a5945dd5086a00b6d25b7491\classes.dex" />
+    </item>
+
+</items>
